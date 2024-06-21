@@ -1,0 +1,62 @@
+[
+    {
+        "name": "iphone",
+        "price": 100,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "laptop",
+        "price": 1000,
+        "featured": false,
+        "company": "vivo"
+    },
+    {
+        "name": "headphone",
+        "price": 200,
+        "featured": true,
+        "company": "Qmobile"
+    },
+    {
+        "name": "computer",
+        "price": 140,
+        "featured": false,
+        "company": "hp"
+    },
+    {
+        "name": "banana",
+        "price": 300,
+        "featured": false,
+        "company": "del"
+    },
+    {
+        "name": "fan",
+        "price": 750,
+        "featured": true,
+        "company": "sumsung"
+    },
+    {
+        "name": "charger",
+        "price": 500,
+        "featured": true,
+        "company": "hp"
+    },
+    {
+        "name": "keypad Mobile",
+        "price": 100,
+        "featured": true,
+        "company": "sumsung"
+    },
+    {
+        "name": "iphone10",
+        "price": 1100,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "chair",
+        "price": 250,
+        "featured": false,
+        "company": "del"
+    }
+]
